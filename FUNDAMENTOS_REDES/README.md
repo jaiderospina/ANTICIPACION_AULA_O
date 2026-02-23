@@ -8,6 +8,8 @@
 
 En términos simples, una red es un conjunto de dispositivos interconectados. Pero para un Red Team, la red es un **sistema circulatorio** que puede ser pinzado, redirigido o drenado. Cada dispositivo, cada cable, cada onda de radio es un posible punto de entrada o exfiltración.
 
+[](osi.png)
+
 ### Tipos de Redes según su alcance (y cómo atacarlas)
 
 * **LAN (Local Area Network):** Una red pequeña, como tu casa o una oficina.  
@@ -125,4 +127,10 @@ El Red Team no solo ataca; también ayuda a anticipar. ¿Cómo?
 
 Entender redes es el primer paso, pero orientarlo a Red Team significa ir más allá: **cada protocolo, cada dirección, cada puerto es una oportunidad para atacar o para defender**. Conocer las herramientas y técnicas ofensivas te permite construir defensas más sólidas, anticipándote a los movimientos del adversario. La red ya no es solo un conducto; es el campo de batalla donde se libra la guerra cibernética.
 
+
 **Siguiente paso:** Aprende a escanear redes como un atacante con `nmap`, a interceptar tráfico con `Wireshark` y a explotar servicios con `Metasploit`. La práctica es clave.
+
+**REFERENCIAS**
+
+- https://ciberprisma.org/2024/07/04/como-los-cibercriminales-atacan-cada-una-de-las-capas-del-modelo-osi-1-7/
+- 
