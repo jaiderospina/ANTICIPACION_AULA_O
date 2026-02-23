@@ -133,5 +133,6 @@ Entender redes es el primer paso, pero orientarlo a Red Team significa ir más a
 **REFERENCIAS**
 
 - https://ciberprisma.org/2024/07/04/como-los-cibercriminales-atacan-cada-una-de-las-capas-del-modelo-osi-1-7/
-- 
+- https://achirou.com/curso-de-redes-para-hackers-el-modelo-osi/
+
 
