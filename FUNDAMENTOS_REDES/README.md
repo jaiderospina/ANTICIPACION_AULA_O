@@ -8,7 +8,7 @@
 
 En términos simples, una red es un conjunto de dispositivos interconectados. Pero para un Red Team, la red es un **sistema circulatorio** que puede ser pinzado, redirigido o drenado. Cada dispositivo, cada cable, cada onda de radio es un posible punto de entrada o exfiltración.
 
-[](osi.png)
+![](osi.png)
 
 ### Tipos de Redes según su alcance (y cómo atacarlas)
 
@@ -134,3 +134,4 @@ Entender redes es el primer paso, pero orientarlo a Red Team significa ir más a
 
 - https://ciberprisma.org/2024/07/04/como-los-cibercriminales-atacan-cada-una-de-las-capas-del-modelo-osi-1-7/
 - 
+
