@@ -115,4 +115,21 @@ Este documento consolida 30 metodologías estándar de valoración de riesgos (b
 * **Ejemplo en Ciberdefensa:** Ejecutar 100,000 simulaciones de tiempos y costos de brechas de seguridad para establecer de manera precisa el monto de póliza requerido (*Cyber Insurance*) o calcular el Valor en Riesgo (VaR) Cibernético del Ministerio de Defensa.
 
 **26. Redes bayesianas**
-* **Definición:** Modelo gráfico probabilístico que
+* **Definición:** Modelo gráfico probabilístico que representa variables y sus dependencias condicionales mediante grafos cíclicos dirigidos.
+* **Ejemplo en Ciberdefensa:** Utilizado en sistemas inteligentes de SIEM para inferir la probabilidad real de que una APT (Amenaza Persistente Avanzada) esté operando en la red interna, condicionado por la observación de ciertos metadatos, como inicios de sesión anómalos (Indicadores de Compromiso - IOC).
+
+**27. Índices de riesgo**
+* **Definición:** Uso de escalas estandarizadas de puntuación semicuantitativa para comparar y priorizar riesgos frente a otros.
+* **Ejemplo en Ciberdefensa:** Utilizar el Sistema Común de Puntuación de Vulnerabilidades (CVSS - *Common Vulnerability Scoring System*) para clasificar las fallas de software del sistema de armas en categorías (Crítico, Alto, Medio, Bajo).
+
+**28. Matriz de consecuencia y probabilidad**
+* **Definición:** Herramienta visual (*Heatmap*) que ubica los riesgos según cruces de ejes de estimación de probabilidad de que ocurran versus el impacto final.
+* **Ejemplo en Ciberdefensa:** Clasificar la amenaza de "Sabotaje informático interno" mapeando su baja probabilidad en el eje Y, frente a un nivel de impacto "Catastrófico" en el eje X, asignando el color ámbar para planes de acción correctiva.
+
+**29. Análisis de costo/beneficio (CBA)**
+* **Definición:** Medición financiera del valor que aportan los controles de seguridad propuestos en comparación con los costos totales para su implementación frente a la reducción del riesgo de la pérdida esperada.
+* **Ejemplo en Ciberdefensa:** Comparar el costo anual de implementar un equipo externo de Cacería de Amenazas (*Threat Hunting*) frente al ahorro de costos de mitigación de no ser víctima del espionaje corporativo (reducción del ALE - *Annualized Loss Expectancy*).
+
+**30. Análisis de decisión por criterios múltiples (MCDA)**
+* **Definición:** Evaluación formal y estructurada de diversas opciones frente a múltiples criterios que pueden ser conflictivos entre sí, asignando un peso a cada uno.
+* **Ejemplo en Ciberdefensa:** Evaluar el reemplazo del servicio perimetral de seguridad considerando al mismo tiempo: eficacia técnica de intercepción, costo financiero, soberanía tecnológica y facilidad operativa del software.
