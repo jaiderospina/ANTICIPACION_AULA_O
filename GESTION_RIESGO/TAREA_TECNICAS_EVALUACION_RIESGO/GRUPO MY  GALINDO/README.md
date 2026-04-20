@@ -148,3 +148,215 @@ Se aplica de forma periódica sobre activos críticos.
 Fortalece la seguridad y el cumplimiento normativo.
 
 ##prueba##
+
+
+
+## Lluvia de ideas  
+Técnica grupal para generar ideas sobre riesgos potenciales.  
+Permite identificar amenazas desde distintas perspectivas.  
+Fomenta participación abierta del equipo.  
+Se usa en etapas iniciales del análisis.  
+Ayuda a descubrir riesgos no evidentes.  
+
+## Lista de verificación  
+Conjunto de preguntas o controles predefinidos.  
+Sirve para revisar cumplimiento y detectar fallas.  
+Facilita evaluaciones rápidas y ordenadas.  
+Reduce omisiones en revisiones periódicas.  
+Es común en auditorías internas.  
+
+## Análisis de peligros y puntos críticos de control (HACCP)  
+Método preventivo para identificar peligros en procesos.  
+Define puntos críticos donde controlar riesgos.  
+Busca evitar fallas antes de ocurrir.  
+Es frecuente en industria alimentaria.  
+Mejora seguridad y calidad operativa.  
+
+## Análisis de escenarios  
+Estudia situaciones futuras posibles y sus efectos.  
+Evalúa amenazas, oportunidades e impactos.  
+Ayuda a prepararse ante incertidumbre.  
+Fortalece decisiones estratégicas.  
+Es útil en continuidad del negocio.  
+
+## Análisis de modo y efecto de falla (AMEF / EMEF)  
+Identifica fallas potenciales de procesos o equipos.  
+Analiza causas y consecuencias de cada falla.  
+Prioriza riesgos según criticidad.  
+Permite acciones preventivas tempranas.  
+Muy usado en calidad e ingeniería.  
+
+## Entrevista estructurada  
+Recolección de información mediante preguntas definidas.  
+Se aplica a expertos o responsables.  
+Busca respuestas comparables y objetivas.  
+Ayuda a detectar riesgos ocultos.  
+Es útil en auditorías y diagnósticos.  
+
+## Análisis primario de peligros  
+Evaluación inicial para detectar riesgos principales.  
+Se usa al inicio de proyectos o cambios.  
+Permite priorizar amenazas relevantes.  
+Es rápido y de bajo costo.  
+Sirve como base para análisis posteriores.  
+
+## Valoración del riesgo ambiental  
+Proceso para medir impactos sobre el ambiente.  
+Analiza contaminación, residuos y accidentes ecológicos.  
+Considera probabilidad e impacto.  
+Apoya cumplimiento legal ambiental.  
+Reduce sanciones y daños reputacionales.  
+
+## Análisis de impacto al negocio (BIA)  
+Evalúa efectos de interrupciones operativas.  
+Identifica procesos críticos del negocio.  
+Mide pérdidas financieras y reputacionales.  
+Define tiempos de recuperación necesarios.  
+Es clave en continuidad operativa.  
+
+## Análisis de árbol de fallas  
+Método gráfico que parte de una falla principal.  
+Descompone causas usando lógica estructurada.  
+Identifica combinaciones críticas de error.  
+Ayuda a prevenir incidentes mayores.  
+Se usa en sistemas complejos.  
+
+## Delphi  
+Método de consulta estructurada basado en expertos.  
+Se realizan rondas de preguntas anónimas.  
+Busca consenso sobre riesgos futuros.  
+Reduce sesgos entre participantes.  
+Útil cuando falta información histórica.  
+
+## Estudio de peligros y operatividad (HAZOP)  
+Técnica sistemática para analizar desviaciones.  
+Evalúa causas y consecuencias operativas.  
+Usa palabras guía para detectar fallas.  
+Muy usada en industrias críticas.  
+Mejora seguridad de procesos.  
+
+## Técnica estructurada ¿Qué pasa si? (SWIFT)  
+Método basado en preguntas hipotéticas.  
+Analiza qué eventos podrían salir mal.  
+Permite identificar riesgos rápidamente.  
+Es flexible y práctico.  
+Se usa en revisiones operativas.  
+
+## Análisis de causa raíz  
+Busca la causa principal de un problema.  
+No se enfoca solo en síntomas.  
+Permite evitar reincidencias.  
+Mejora procesos y controles.  
+Común en gestión de incidentes.  
+
+## Análisis de árbol de eventos  
+Parte de un evento inicial conocido.  
+Desarrolla consecuencias posibles sucesivas.  
+Mide efectividad de controles existentes.  
+Ayuda a estimar impactos futuros.  
+Se usa en seguridad industrial.  
+
+## Análisis de causa y consecuencia  
+Relaciona causas con resultados posibles.  
+Permite entender la cadena del riesgo.  
+Integra origen e impacto.  
+Facilita controles preventivos.  
+Útil en procesos complejos.  
+
+## Árbol de decisión  
+Diagrama que muestra opciones disponibles.  
+Incluye probabilidades y consecuencias.  
+Ayuda a comparar alternativas.  
+Reduce incertidumbre en decisiones.  
+Muy usado en gestión de riesgos.  
+
+## Mantenimiento enfocado en la confiabilidad (RCM)  
+Prioriza mantenimiento según criticidad.  
+Busca continuidad operativa de activos.  
+Reduce fallas inesperadas.  
+Optimiza recursos técnicos.  
+Clave en infraestructura crítica.  
+
+## Simulación Monte Carlo  
+Usa miles de escenarios aleatorios.  
+Permite estimar resultados probables.  
+Mide incertidumbre en variables complejas.  
+Apoya análisis financiero y técnico.  
+Entrega rangos realistas de decisión.  
+
+## Matriz de consecuencia y probabilidad  
+Clasifica riesgos por impacto y frecuencia.  
+Ubica riesgos en niveles de prioridad.  
+Facilita decisiones rápidas.  
+Es simple y visual.  
+Muy usada en gestión empresarial.  
+
+## Análisis de causa/efecto  
+Relaciona problemas con factores causales.  
+Organiza causas humanas y técnicas.  
+Facilita investigación estructurada.  
+Ayuda a resolver fallas.  
+También llamado Ishikawa.  
+
+## Análisis de confiabilidad humana  
+Evalúa probabilidad de error humano.  
+Considera fatiga y estrés laboral.  
+Mejora tareas críticas.  
+Reduce incidentes operativos.  
+Usado en sectores sensibles.  
+
+## Análisis de circuito furtivo  
+Detecta rutas eléctricas no previstas.  
+Identifica señales ocultas peligrosas.  
+Previene comportamientos inesperados.  
+Usado en electrónica compleja.  
+Mejora confiabilidad técnica.  
+
+## Redes bayesianas  
+Modelo probabilístico entre variables relacionadas.  
+Actualiza riesgos con nueva información.  
+Mide dependencias entre eventos.  
+Útil en predicción avanzada.  
+Apoya decisiones bajo incertidumbre.  
+
+## Análisis de costo/beneficio  
+Compara costo de acciones y beneficios.  
+Justifica inversiones en controles.  
+Prioriza recursos limitados.  
+Mide rentabilidad esperada.  
+Clave en decisiones ejecutivas.  
+
+## Análisis de capas de protección (LOPA)  
+Evalúa barreras de seguridad existentes.  
+Mide si son suficientes ante riesgos.  
+Analiza independencia de controles.  
+Usado en procesos sensibles.  
+Reduce accidentes graves.  
+
+## Análisis de esquema de corbatín (Bow Tie)  
+Visualiza causas y consecuencias del riesgo.  
+Ubica evento central en medio.  
+Muestra controles preventivos y correctivos.  
+Es claro y visual.  
+Útil en gestión integral.  
+
+## Análisis de Markov  
+Modelo matemático basado en estados.  
+Analiza cambios probables en el tiempo.  
+Predice evolución de sistemas.  
+Usado en confiabilidad operativa.  
+Apoya planificación técnica.  
+
+## Índices de riesgo  
+Indicadores numéricos de exposición.  
+Combinan impacto y frecuencia.  
+Permiten comparar riesgos.  
+Facilitan seguimiento gerencial.  
+Útiles en tableros de control.  
+
+## Análisis de decisión por criterios múltiples  
+Evalúa opciones con varios factores.  
+Considera costo, tiempo y riesgo.  
+Asigna peso a cada criterio.  
+Permite decisiones equilibradas.  
+Útil en selección de proyectos.  
