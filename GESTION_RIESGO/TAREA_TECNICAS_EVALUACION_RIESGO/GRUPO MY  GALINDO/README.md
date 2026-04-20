@@ -46,3 +46,57 @@ También conocido como "Diagrama de Espina de Pescado", se utiliza para organiza
 
 ### 12. Análisis de Capas de Protección (LOPA)
 Método simplificado de evaluación de riesgos que analiza si las barreras de protección existentes (capas) son suficientes para reducir la frecuencia de un evento indeseado a un nivel tolerable.
+
+# Herramientas de Gestión del Riesgo
+
+## 1. Simulación Monte Carlo
+Es una técnica que usa modelos matemáticos y simulaciones repetidas (con números aleatorios) para predecir posibles resultados de un evento incierto.  
+
+👉 Sirve para analizar riesgos y estimar probabilidades en escenarios complejos.
+
+---
+
+## 2. Redes Bayesianas
+Son modelos gráficos que representan relaciones de causa y efecto entre variables usando probabilidades.  
+
+👉 Permiten actualizar el riesgo cuando aparece nueva información.
+
+---
+
+## 3. Índices de riesgo
+Son indicadores numéricos o cualitativos que muestran el nivel de riesgo de una situación.  
+
+👉 Se calculan combinando probabilidad y consecuencias.
+
+---
+
+## 4. Matriz de consecuencia y probabilidad
+Es una herramienta que cruza:
+
+- Probabilidad de que ocurra un evento  
+- Impacto o consecuencia  
+
+👉 Permite clasificar los riesgos (bajo, medio, alto) y priorizarlos.
+
+---
+
+## 5. Análisis de costo/beneficio
+Consiste en comparar:
+
+- Costos de una acción (ej. controlar un riesgo)  
+- Beneficios que se obtienen  
+
+👉 Ayuda a decidir si vale la pena implementar una medida.
+
+---
+
+## 6. Análisis de decisión por criterios múltiples
+Es un método para tomar decisiones considerando varios factores al mismo tiempo:
+
+- Costos  
+- Riesgos  
+- Impacto  
+- Viabilidad  
+- Otros criterios relevantes  
+
+👉 Permite elegir la mejor alternativa de forma integral.
