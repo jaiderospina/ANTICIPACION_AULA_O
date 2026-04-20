@@ -129,3 +129,20 @@ El **RCA** (*Root Cause Analysis*) no es una definición aislada en el texto pri
 
 ---
 > **Nota técnica:** Esta información sigue los lineamientos de los estándares internacionales de gestión de riesgos.
+
+
+## Árbol de decisión
+
+Metodología de identificación y análisis de riesgos que representa gráficamente distintas opciones, eventos y consecuencias posibles.  
+Permite evaluar escenarios con base en probabilidades e impactos.  
+Ayuda a seleccionar la alternativa con menor exposición al riesgo.  
+Se usa para decisiones estratégicas, operativas y de seguridad.  
+Facilita priorizar controles y recursos.  
+
+## Mantenimiento enfocado en la confidencialidad
+
+Conjunto de actividades preventivas orientadas a proteger la información sensible contra accesos no autorizados.  
+Incluye revisión de permisos, actualización de sistemas, cifrado y control de usuarios.  
+Busca reducir fugas de datos y errores operativos.  
+Se aplica de forma periódica sobre activos críticos.  
+Fortalece la seguridad y el cumplimiento normativo.
