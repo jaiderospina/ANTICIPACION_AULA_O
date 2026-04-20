@@ -1,3 +1,4 @@
+# **INTEGRANTES:**
 * MY Murcia Muñoz Norberto
 * MY Bahena Vasquez Carlos
 * CC Claijo Madariaga Diego
@@ -5,7 +6,7 @@
 * MY Jimenez Lozano Cesar
 * MY Palma Montoya Diego
 ##
-# GRUPO_MIDWAY 
+# GRUPO MIDWAY 
 ## Glosario de Técnicas de Valoración y Análisis de Riesgos en Ciberseguridad y Ciberdefensa
 
 Este documento consolida 30 metodologías estándar de valoración de riesgos (basadas en la ISO/IEC 31010) aplicadas al entorno táctico y estratégico de la ciberseguridad y la ciberdefensa. Cada técnica ha sido definida de forma sintética, acompañando su aplicación operativa con un ejemplo directo en el dominio digital.
