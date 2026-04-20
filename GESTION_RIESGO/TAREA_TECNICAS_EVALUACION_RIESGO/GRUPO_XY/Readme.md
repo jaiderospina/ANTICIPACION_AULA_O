@@ -5,6 +5,7 @@
 ---
 Alumnos:
 CC Yesid Mesa Mantilla
+MY ROMERO FERNANDEZ NELSON
 
 ## Técnicas de Evaluación de Riesgo
 
