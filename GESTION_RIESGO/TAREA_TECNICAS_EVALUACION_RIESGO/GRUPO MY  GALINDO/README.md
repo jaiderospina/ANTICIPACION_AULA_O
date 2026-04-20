@@ -1,6 +1,6 @@
 # Técnicas de Identificación y Análisis de Riesgos
 
-## Integrantes
+# Integrantes
 * **MY FAC** Antolinez Diaz Raul Orlando
 * **MY EJC** Avila Gil German Ricardo
 * **MY EJC** Florez Jaimes Juan Pablo
