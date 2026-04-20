@@ -100,3 +100,32 @@ Es un método para tomar decisiones considerando varios factores al mismo tiempo
 - Otros criterios relevantes  
 
 👉 Permite elegir la mejor alternativa de forma integral.
+
+# Conceptos y Técnicas de Gestión de Riesgos
+
+---
+
+## 1. Análisis de Peligros y Puntos Críticos de Control
+Es un proceso **sistemático de apreciación del riesgo** diseñado para identificar, evaluar y controlar peligros significativos para la **inocuidad de los alimentos**.
+
+## 2. Valoración del Riesgo Ambiental
+Se define como el proceso global que comprende la identificación, el análisis y la evaluación de los riesgos que:
+* Pueden impactar negativamente al **medio ambiente**.
+* El entorno puede causar a la organización.
+
+## 3. Estructura (Framework)
+La **"estructura"** se refiere al marco de trabajo que soporta la gestión de riesgos en toda la organización.
+
+## 4. Análisis de Escenarios
+No es una definición aislada, sino una **técnica fundamental de la Apreciación del Riesgo**. Se encuentra detallada específicamente en la norma de apoyo **ISO 31010**.
+
+## 5. Análisis de Impacto al Negocio (BIA)
+No es una definición propia del cuerpo de esta norma, sino una técnica especializada de Apreciación del Riesgo. Su base formal y técnica se encuentra en:
+* **ISO 22301** (Seguridad y Resiliencia).
+* **ISO 31010**.
+
+## 6. Análisis de Causa Raíz (RCA)
+El **RCA** (*Root Cause Analysis*) no es una definición aislada en el texto principal, sino que se integra como una parte fundamental del proceso de **Análisis del Riesgo**.
+
+---
+> **Nota técnica:** Esta información sigue los lineamientos de los estándares internacionales de gestión de riesgos.
