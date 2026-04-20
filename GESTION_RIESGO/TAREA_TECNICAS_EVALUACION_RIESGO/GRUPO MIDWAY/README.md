@@ -1,10 +1,10 @@
 # **INTEGRANTES:**
-* MY Murcia Muñoz Norberto
-* MY Bahena Vasquez Carlos
-* CC Claijo Madariaga Diego
-* MY Téllez Salinas Diego Alejandro
-* MY Jimenez Lozano Cesar
-* MY Palma Montoya Diego
+* MY EJC Murcia Muñoz Norberto
+* MY EJC Bahena Vasquez Carlos
+* CC ARC Claijo Madariaga Diego
+* MY FAC Téllez Salinas Diego Alejandro
+* MY FAC Jimenez Lozano Cesar
+* MY FAC Palma Montoya Diego
 ##
 # GRUPO MIDWAY 
 ## Glosario de Técnicas de Valoración y Análisis de Riesgos en Ciberseguridad y Ciberdefensa
