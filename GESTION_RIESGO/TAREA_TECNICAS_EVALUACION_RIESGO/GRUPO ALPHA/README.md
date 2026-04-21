@@ -1,3 +1,9 @@
+# Integrantes del Grupo ALPHA
+
+* **MY JONATHAN CONTRERAS**
+* **CC RAMIRO CARRASCAL**
+* **MY JASSED CADAVID**
+
 # Metodologías y Técnicas de Evaluación de Riesgos en Ciberseguridad
 
 Este repositorio contiene una compilación detallada de las técnicas de evaluación de riesgos definidas en la norma **ISO 31010**, adaptadas específicamente al dominio de la **Ciberdefensa** y la seguridad de **Tecnologías de Operación (OT)**.
