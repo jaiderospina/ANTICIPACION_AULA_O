@@ -5,7 +5,7 @@
 
 A diferencia de enfoques puramente técnicos, OCTAVE se centra en el **riesgo organizacional**: combina personas, procesos, tecnología, información, servicios, instalaciones y objetivos de negocio. En su versión **OCTAVE Allegro**, el enfoque se orienta principalmente a los **activos de información** y al contexto en el que se almacenan, procesan, transportan y usan. ([sei.cmu.edu][1])
 
-![](Octave.png)
+![octave](Octave.png)
 
 
 ---
