@@ -5,11 +5,12 @@
 
 A diferencia de enfoques puramente técnicos, OCTAVE se centra en el **riesgo organizacional**: combina personas, procesos, tecnología, información, servicios, instalaciones y objetivos de negocio. En su versión **OCTAVE Allegro**, el enfoque se orienta principalmente a los **activos de información** y al contexto en el que se almacenan, procesan, transportan y usan. ([sei.cmu.edu][1])
 
+![](Octave.png)
+
+
 ---
 
-## 2. Objetivo del manual
-
-Este manual explica cómo aplicar OCTAVE para gestionar riesgos de ciberseguridad en una organización. Al finalizar, deberías poder:
+## 2. Objetivos
 
 1. Identificar activos críticos de información.
 2. Definir criterios de impacto.
@@ -36,7 +37,7 @@ El modelo OCTAVE original fue diseñado para organizaciones grandes, con estruct
 
 **OCTAVE Allegro** es una versión más ligera y práctica. Fue publicada por CERT/SEI para optimizar el proceso de evaluación de riesgos de seguridad de la información, reduciendo esfuerzo y recursos necesarios. Incluye guías, hojas de trabajo y ejemplos para realizar evaluaciones de riesgos. ([sei.cmu.edu][1])
 
-En este manual se usa principalmente **OCTAVE Allegro**, porque es más aplicable a evaluaciones modernas de ciberseguridad.
+En estaguía se refiere principalmente **OCTAVE Allegro**, porque es más aplicable a evaluaciones modernas de ciberseguridad.
 
 ---
 
